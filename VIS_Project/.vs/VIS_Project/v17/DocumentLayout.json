@@ -1,0 +1,723 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\vis\\code\\VIS_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3B2EC5-F3A3-4329-A38D-3A5845D25FFE}|ConsoleGUI\\ConsoleGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\consolegui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3B2EC5-F3A3-4329-A38D-3A5845D25FFE}|ConsoleGUI\\ConsoleGUI.csproj|solutionrelative:consolegui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3B2EC5-F3A3-4329-A38D-3A5845D25FFE}|ConsoleGUI\\ConsoleGUI.csproj|e:\\code\\vis\\code\\vis_project\\consolegui\\transactionscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3B2EC5-F3A3-4329-A38D-3A5845D25FFE}|ConsoleGUI\\ConsoleGUI.csproj|solutionrelative:consolegui\\transactionscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|E:\\code\\vis\\code\\VIS_Project\\classlibrary1\\bluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|solutionrelative:classlibrary1\\bluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|E:\\code\\vis\\code\\VIS_Project\\dl\\user_tdg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|solutionrelative:dl\\user_tdg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|E:\\code\\vis\\code\\VIS_Project\\classlibrary1\\rolebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|solutionrelative:classlibrary1\\rolebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|E:\\code\\vis\\code\\VIS_Project\\dl\\role.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|solutionrelative:dl\\role.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|E:\\code\\vis\\code\\VIS_Project\\dl\\orderdetail_tdg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|solutionrelative:dl\\orderdetail_tdg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|e:\\code\\vis\\code\\vis_project\\dl\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|solutionrelative:dl\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|E:\\code\\vis\\code\\VIS_Project\\dl\\product_tdg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|solutionrelative:dl\\product_tdg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|E:\\code\\vis\\code\\VIS_Project\\classlibrary1\\usersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|solutionrelative:classlibrary1\\usersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|E:\\code\\vis\\code\\VIS_Project\\dl\\order_tdg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA1AA5-83B2-47AA-9630-883AF74BB503}|DL\\DL.csproj|solutionrelative:dl\\order_tdg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AppGUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|e:\\code\\vis\\code\\vis_project\\vis_project\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|E:\\code\\vis\\code\\VIS_Project\\classlibrary1\\productsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|solutionrelative:classlibrary1\\productsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|E:\\code\\vis\\code\\VIS_Project\\classlibrary1\\blorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|solutionrelative:classlibrary1\\blorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|E:\\code\\vis\\code\\VIS_Project\\classlibrary1\\blproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|solutionrelative:classlibrary1\\blproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5825EEE5-7504-459A-9F73-402A41D298BA}|DTO\\DTO.csproj|E:\\code\\vis\\code\\VIS_Project\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5825EEE5-7504-459A-9F73-402A41D298BA}|DTO\\DTO.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5825EEE5-7504-459A-9F73-402A41D298BA}|DTO\\DTO.csproj|E:\\code\\vis\\code\\VIS_Project\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5825EEE5-7504-459A-9F73-402A41D298BA}|DTO\\DTO.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5825EEE5-7504-459A-9F73-402A41D298BA}|DTO\\DTO.csproj|E:\\code\\vis\\code\\VIS_Project\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5825EEE5-7504-459A-9F73-402A41D298BA}|DTO\\DTO.csproj|solutionrelative:dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5825EEE5-7504-459A-9F73-402A41D298BA}|DTO\\DTO.csproj|E:\\code\\vis\\code\\VIS_Project\\dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5825EEE5-7504-459A-9F73-402A41D298BA}|DTO\\DTO.csproj|solutionrelative:dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5825EEE5-7504-459A-9F73-402A41D298BA}|DTO\\DTO.csproj|E:\\code\\vis\\code\\VIS_Project\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5825EEE5-7504-459A-9F73-402A41D298BA}|DTO\\DTO.csproj|solutionrelative:dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|E:\\code\\vis\\code\\VIS_Project\\classlibrary1\\orderdetailbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0F527C-0A04-4927-8C85-D3824112514A}|ClassLibrary1\\BL.csproj|solutionrelative:classlibrary1\\orderdetailbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\printreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\printreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\ordercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\ordercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\printreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\printreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|E:\\code\\vis\\code\\VIS_Project\\vis_project\\ordercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|solutionrelative:vis_project\\ordercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59284C1-FEB5-4DBB-B465-AC9A9264C18F}|VIS_Project\\AppGUI.csproj|e:\\code\\vis\\code\\vis_project\\vis_project\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\MainForm.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\MainForm.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\MainForm.cs",
+              "RelativeToolTip": "VIS_Project\\MainForm.cs",
+              "ViewState": "AQIAABcAAAAgMzMzM/M7wDEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:27:01.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product_TDG.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\DL\\Product_TDG.cs",
+              "RelativeDocumentMoniker": "DL\\Product_TDG.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\DL\\Product_TDG.cs",
+              "RelativeToolTip": "DL\\Product_TDG.cs",
+              "ViewState": "AQIAAKUAAAAAMjMzM7MTwHgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:17:11.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BLProduct.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\BLProduct.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\BLProduct.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\BLProduct.cs",
+              "RelativeToolTip": "ClassLibrary1\\BLProduct.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwGMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:17:05.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditProduct.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\EditProduct.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\EditProduct.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\EditProduct.cs",
+              "RelativeToolTip": "VIS_Project\\EditProduct.cs",
+              "ViewState": "AQIAABQAAADAmZmZmdkgwEsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:33:21.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Product.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\Product.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Product.cs",
+              "RelativeToolTip": "VIS_Project\\Product.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:16:25.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\LoginForm.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\LoginForm.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\LoginForm.cs",
+              "RelativeToolTip": "VIS_Project\\LoginForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:36:08.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:10:52.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditProduct.cs [Design]",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\EditProduct.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\EditProduct.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\EditProduct.cs [Design]",
+              "RelativeToolTip": "VIS_Project\\EditProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:29:13.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\MainForm.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\MainForm.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\MainForm.cs [Design]",
+              "RelativeToolTip": "VIS_Project\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:27:47.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\AddProduct.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\AddProduct.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\AddProduct.cs",
+              "RelativeToolTip": "VIS_Project\\AddProduct.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:25:16.457Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.xml",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\DL\\Role.xml",
+              "RelativeDocumentMoniker": "DL\\Role.xml",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\DL\\Role.xml",
+              "RelativeToolTip": "DL\\Role.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-07T21:40:58.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleBL.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\RoleBL.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\RoleBL.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\RoleBL.cs",
+              "RelativeToolTip": "ClassLibrary1\\RoleBL.cs",
+              "ViewState": "AQIAABEAAACA/v///38WwBoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:40:40.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User_TDG.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\DL\\User_TDG.cs",
+              "RelativeDocumentMoniker": "DL\\User_TDG.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\DL\\User_TDG.cs",
+              "RelativeToolTip": "DL\\User_TDG.cs",
+              "ViewState": "AQIAAGkAAAAAYJmZmZn3v4oAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:10:50.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLUser.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\BLUser.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\BLUser.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\BLUser.cs",
+              "RelativeToolTip": "ClassLibrary1\\BLUser.cs",
+              "ViewState": "AQIAAAMAAADAzMzMzEwswF8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:44:13.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetail_TDG.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\DL\\OrderDetail_TDG.cs",
+              "RelativeDocumentMoniker": "DL\\OrderDetail_TDG.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\DL\\OrderDetail_TDG.cs",
+              "RelativeToolTip": "DL\\OrderDetail_TDG.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:02:37.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataBaseSingleTon.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\DL\\DataBaseSingleTon.cs",
+              "RelativeDocumentMoniker": "DL\\DataBaseSingleTon.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\DL\\DataBaseSingleTon.cs",
+              "RelativeToolTip": "DL\\DataBaseSingleTon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T01:15:48.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionScript.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\ConsoleGUI\\TransactionScript.cs",
+              "RelativeDocumentMoniker": "ConsoleGUI\\TransactionScript.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\ConsoleGUI\\TransactionScript.cs",
+              "RelativeToolTip": "ConsoleGUI\\TransactionScript.cs",
+              "ViewState": "AQIAADAAAABAmpmZmVkowDoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:56:07.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\ConsoleGUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleGUI\\Program.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\ConsoleGUI\\Program.cs",
+              "RelativeToolTip": "ConsoleGUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:41:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserSingleton.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\UserSingleton.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\UserSingleton.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\UserSingleton.cs",
+              "RelativeToolTip": "ClassLibrary1\\UserSingleton.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:30:31.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order_TDG.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\DL\\Order_TDG.cs",
+              "RelativeDocumentMoniker": "DL\\Order_TDG.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\DL\\Order_TDG.cs",
+              "RelativeToolTip": "DL\\Order_TDG.cs",
+              "ViewState": "AQIAABAAAABAZ2ZmZuYiwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:13:18.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppGUI",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\AppGUI.csproj",
+              "RelativeDocumentMoniker": "VIS_Project\\AppGUI.csproj",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\AppGUI.csproj",
+              "RelativeToolTip": "VIS_Project\\AppGUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-11T09:55:31.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductSingleton.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\ProductSingleton.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\ProductSingleton.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\ProductSingleton.cs",
+              "RelativeToolTip": "ClassLibrary1\\ProductSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:32:03.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BLOrder.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\BLOrder.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\BLOrder.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\BLOrder.cs",
+              "RelativeToolTip": "ClassLibrary1\\BLOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:35:58.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Manage.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Manage.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\Manage.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Manage.cs",
+              "RelativeToolTip": "VIS_Project\\Manage.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowD0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:36:17.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:39:13.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\DTO\\User.cs",
+              "RelativeDocumentMoniker": "DTO\\User.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\DTO\\User.cs",
+              "RelativeToolTip": "DTO\\User.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:39:16.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderDetailDTO.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\DTO\\OrderDetailDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDetailDTO.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\DTO\\OrderDetailDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:38:10.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\LoginForm.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\LoginForm.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\LoginForm.cs [Design]",
+              "RelativeToolTip": "VIS_Project\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:44:10.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Program.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\Program.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Program.cs",
+              "RelativeToolTip": "VIS_Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:45:01.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditUserForm.cs [Design]",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\EditUserForm.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\EditUserForm.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\EditUserForm.cs [Design]",
+              "RelativeToolTip": "VIS_Project\\EditUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:44:14.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditUserForm.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\EditUserForm.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\EditUserForm.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\EditUserForm.cs",
+              "RelativeToolTip": "VIS_Project\\EditUserForm.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:44:16.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Product.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\Product.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Product.cs [Design]",
+              "RelativeToolTip": "VIS_Project\\Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:12:22.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\DTO\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RoleDTO.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\DTO\\RoleDTO.cs",
+              "RelativeToolTip": "DTO\\RoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:38:29.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Manage.cs [Design]",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Manage.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\Manage.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Manage.cs [Design]",
+              "RelativeToolTip": "VIS_Project\\Manage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:36:16.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Profile.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\Profile.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\Profile.cs",
+              "RelativeToolTip": "VIS_Project\\Profile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:10:04.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PrintReceipt.cs [Design]",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\PrintReceipt.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\PrintReceipt.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\PrintReceipt.cs [Design]",
+              "RelativeToolTip": "VIS_Project\\PrintReceipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:33:24.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\RegisterForm.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\RegisterForm.cs",
+              "RelativeToolTip": "VIS_Project\\RegisterForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:10:12.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PrintReceipt.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\PrintReceipt.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\PrintReceipt.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\PrintReceipt.cs",
+              "RelativeToolTip": "VIS_Project\\PrintReceipt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:42:08.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderDetailBL.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\OrderDetailBL.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\OrderDetailBL.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\ClassLibrary1\\OrderDetailBL.cs",
+              "RelativeToolTip": "ClassLibrary1\\OrderDetailBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:24:18.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderCheck.cs",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\OrderCheck.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\OrderCheck.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\OrderCheck.cs",
+              "RelativeToolTip": "VIS_Project\\OrderCheck.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:14:45.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderCheck.cs [Design]",
+              "DocumentMoniker": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\OrderCheck.cs",
+              "RelativeDocumentMoniker": "VIS_Project\\OrderCheck.cs",
+              "ToolTip": "E:\\code\\vis\\code\\VIS_Project\\VIS_Project\\OrderCheck.cs [Design]",
+              "RelativeToolTip": "VIS_Project\\OrderCheck.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:14:42.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

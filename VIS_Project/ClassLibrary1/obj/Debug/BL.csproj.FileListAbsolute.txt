@@ -1,0 +1,11 @@
+E:\code\vis\code\VIS_Project\ClassLibrary1\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\code\vis\code\VIS_Project\ClassLibrary1\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\code\vis\code\VIS_Project\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\code\vis\code\VIS_Project\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\code\vis\code\VIS_Project\ClassLibrary1\bin\Debug\DL.dll
+E:\code\vis\code\VIS_Project\ClassLibrary1\bin\Debug\DTO.dll
+E:\code\vis\code\VIS_Project\ClassLibrary1\bin\Debug\DL.pdb
+E:\code\vis\code\VIS_Project\ClassLibrary1\bin\Debug\DTO.pdb
+E:\code\vis\code\VIS_Project\ClassLibrary1\obj\Debug\BL.csproj.Up2Date
+E:\code\vis\code\VIS_Project\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\code\vis\code\VIS_Project\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,14 @@
+E:\code\vis\code\VIS_Project\ConsoleGUI\obj\Debug\ConsoleGUI.csproj.AssemblyReference.cache
+E:\code\vis\code\VIS_Project\ConsoleGUI\obj\Debug\ConsoleGUI.csproj.CoreCompileInputs.cache
+E:\code\vis\code\VIS_Project\ConsoleGUI\bin\Debug\ConsoleGUI.exe.config
+E:\code\vis\code\VIS_Project\ConsoleGUI\bin\Debug\ConsoleGUI.exe
+E:\code\vis\code\VIS_Project\ConsoleGUI\bin\Debug\ConsoleGUI.pdb
+E:\code\vis\code\VIS_Project\ConsoleGUI\bin\Debug\ClassLibrary1.dll
+E:\code\vis\code\VIS_Project\ConsoleGUI\bin\Debug\DTO.dll
+E:\code\vis\code\VIS_Project\ConsoleGUI\bin\Debug\DL.dll
+E:\code\vis\code\VIS_Project\ConsoleGUI\bin\Debug\ClassLibrary1.pdb
+E:\code\vis\code\VIS_Project\ConsoleGUI\bin\Debug\DTO.pdb
+E:\code\vis\code\VIS_Project\ConsoleGUI\bin\Debug\DL.pdb
+E:\code\vis\code\VIS_Project\ConsoleGUI\obj\Debug\ConsoleGUI.csproj.Up2Date
+E:\code\vis\code\VIS_Project\ConsoleGUI\obj\Debug\ConsoleGUI.exe
+E:\code\vis\code\VIS_Project\ConsoleGUI\obj\Debug\ConsoleGUI.pdb

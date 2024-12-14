@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Roles>
+	<Role>
+		<RoleId>1</RoleId>
+		<RoleName>admin</RoleName>
+	</Role>
+	<Role>
+		<RoleId>2</RoleId>
+		<RoleName>customer</RoleName>
+	</Role>
+	<Role>
+		<RoleId>3</RoleId>
+		<RoleName>production team</RoleName>
+	</Role>
+	<Role>
+		<RoleId>4</RoleId>
+		<RoleName>selling team</RoleName>
+	</Role>
+</Roles>
+

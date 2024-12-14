@@ -1,0 +1,6 @@
+E:\code\vis\code\VIS_Project\DTO\bin\Debug\DTO.dll
+E:\code\vis\code\VIS_Project\DTO\bin\Debug\DTO.pdb
+E:\code\vis\code\VIS_Project\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\code\vis\code\VIS_Project\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\code\vis\code\VIS_Project\DTO\obj\Debug\DTO.dll
+E:\code\vis\code\VIS_Project\DTO\obj\Debug\DTO.pdb
